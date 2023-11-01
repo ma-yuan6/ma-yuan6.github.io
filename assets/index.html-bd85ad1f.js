@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"💻 Python","lang":"en-US","frontmatter":{"home":true,"heroImage":"/logo.png"},"headers":[],"git":{},"filePathRelative":"README.md"}');export{e as data};

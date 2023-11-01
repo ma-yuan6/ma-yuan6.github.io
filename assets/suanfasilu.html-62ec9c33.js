@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7ff3f50d","path":"/k/suanfasilu.html","title":"算法思路","lang":"en-US","frontmatter":{"title":"算法思路","date":"2023/10/30","categories":["其他"],"tags":["算法"]},"headers":[{"level":2,"title":"二分法","slug":"二分法","link":"#二分法","children":[]}],"git":{},"filePathRelative":"k/算法思路.md","readingTime":{"minutes":2.69,"words":269}}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6c88eaec","path":"/python/Python%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9B%B8%E5%85%B3%E8%AF%AD%E6%B3%95.html","title":"Python 面向对象相关语法","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"类的定义","slug":"类的定义","link":"#类的定义","children":[]}],"git":{},"filePathRelative":"python/Python面向对象相关语法.md"}');export{t as data};
