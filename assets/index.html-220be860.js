@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10d31c16","path":"/tags/Django/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null,"readingTime":{"minutes":0,"words":0}}');export{e as data};
